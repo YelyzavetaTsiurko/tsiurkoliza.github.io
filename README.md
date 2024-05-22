@@ -4,6 +4,7 @@
   Swieradowska 43, 02-662 Warszawa
 - Nursing Assosiates Degree
   Vinnitsa Medical College 2019-2022
+  
 ### Courses and Certifications
 - Foundations of Project Management Course
   Educational platform Coursera, 2023.
@@ -11,6 +12,7 @@
   At Coursera, created by University of California, Davis, 2024.
 - Using Python to Access Web Data Course
   Course authorized by University of Michigan and offered through Coursera, 2023.
+  
 ### Work Experience 
 - Business Analytics Intern
   1Global. April 2024 - Now
@@ -25,5 +27,6 @@
     - Actively took part in the transition of AR Trade Accounts from a different country for reconciliation purposes.
     - Posted manual journals, accruals for various transactions.
     - Prepared ageing reports.
+ 
 ### Pojects
 
