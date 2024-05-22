@@ -3,7 +3,7 @@
   Lazarski University 2022-2025
   Swieradowska 43, 02-662 Warszawa
 - Nursing Assosiates Degree
- Vinnitsa Medical College 2019-2022
+  Vinnitsa Medical College 2019-2022
 ### Courses and Certifications
 - Foundations of Project Management Course
   Educational platform Coursera, 2023.
