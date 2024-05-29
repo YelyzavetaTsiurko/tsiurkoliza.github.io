@@ -7,7 +7,7 @@
   
 ### Courses and Certifications
 - Foundations of Project Management Course
-  Educational platform Coursera, 2023.
+  - Educational platform Coursera, 2023.
 - Visualization with Tableau Specialization (5 courses)
   At Coursera, created by University of California, Davis, 2024.
 - Using Python to Access Web Data Course
