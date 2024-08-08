@@ -28,5 +28,5 @@
     - Posted manual journals, accruals for various transactions.
     - Prepared ageing reports.
  
-### Pojects
+### Projects
 
