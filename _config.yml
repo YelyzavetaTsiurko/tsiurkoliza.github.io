@@ -1,8 +1,6 @@
 title: Yelyzaveta Tsiurko
 logo: Images_folder/Photo.jpeg
-description:      'Business Analytics intern & Data Science Student'
+description: "Business Analytics intern & Data Science Student"
 show_downloads: true
 theme: jekyll-theme-minimal
-markdown: kramdown
-kramdown:
-  input: GFM
+
